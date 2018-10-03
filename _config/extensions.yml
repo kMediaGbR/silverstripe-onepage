@@ -1,0 +1,8 @@
+---
+Name: onepage-extensions
+After:
+  - 'framework/*'
+---
+Page:
+  extensions:
+    - Kmedia\Onepage\OnePageExtension
