@@ -6,7 +6,7 @@ Best installed via composer. You may clone the repo or download the zip, however
 
 ### Using Composer
 ```
-composer require kmedia/silverstripe-onepage master
+composer require kmedia/silverstripe-onepage
 ```
 
 ### Requirements
