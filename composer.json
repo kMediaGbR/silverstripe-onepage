@@ -1,6 +1,6 @@
 {
 	"name": "kmedia/silverstripe-onepage",
-	"description": "An extension for simple one-page sites",
+	"description": "An extension for simple OnePager",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "extension"],
 	"license": "MIT",
@@ -24,3 +24,4 @@
         }
     }
 }
+
