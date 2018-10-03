@@ -1,7 +1,7 @@
 {
 	"name": "kmedia/silverstripe-onepage",
 	"description": "An extension for simple OnePager",
-	"type": "silverstripe-module",
+	"type": "silverstripe-vendormodule",
 	"keywords": ["silverstripe", "extension"],
 	"license": "MIT",
 	"authors": [
