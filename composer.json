@@ -1,27 +1,30 @@
 {
-	"name": "kmedia/silverstripe-onepage",
-	"description": "An extension for simple OnePager",
-	"type": "silverstripe-vendormodule",
-	"keywords": ["silverstripe", "extension"],
-	"license": "MIT",
-	"authors": [
-	{
-		"name": "Sebastian Kalicki",
-		"email": "s.kalicki@kmedia.email",
-		"homepage": "http://kmedia.rocks",
-		"role": "Developer"
-	}
-	],
-	"support": {
-		"issues": "https://github.com/kMediaGbR/silverstripe-onepage/issues"
-	},
-	"require": {
-		"silverstripe/framework": "^4.0"
-	},
-    "autoload": {
-        "psr-4": {
-            "Kmedia\\Onepage\\": "src/"
-        }
+  "name": "kmedia/silverstripe-onepage",
+  "description": "An extension for simple OnePager",
+  "type": "silverstripe-vendormodule",
+  "keywords": [
+    "silverstripe",
+    "extension"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sebastian Kalicki",
+      "email": "s.kalicki@kmedia.email",
+      "homepage": "http://kmedia.rocks",
+      "role": "Developer"
     }
+  ],
+  "support": {
+    "issues": "https://github.com/kMediaGbR/silverstripe-onepage/issues"
+  },
+  "require": {
+    "silverstripe/framework": "^4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kmedia\\Onepage\\": "src/"
+    }
+  }
 }
 
