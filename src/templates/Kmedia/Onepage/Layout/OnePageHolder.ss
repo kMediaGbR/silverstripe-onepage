@@ -1,10 +1,9 @@
-<div class="row">
-    <article class="column">
+<article class="row">
+    <div class="column">
         <h1>$Title</h1>
         $Content
-    </article>
-    <% loop $Children %>
-        $OnePageContent
-    <% end_loop %>
-</div>
-
+    </div>
+</article>
+<% loop $Children %>
+    $OnePageContent
+<% end_loop %>
