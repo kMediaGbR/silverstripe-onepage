@@ -1,5 +1,5 @@
-<div class="row">
-    <article class="column">
+<div>
+    <article>
         <h1>$Title</h1>
         $Content
     </article>
