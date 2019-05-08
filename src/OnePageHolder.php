@@ -2,8 +2,8 @@
 
 namespace Kmedia\Onepage;
 
-use Page;
 
+use Page;
 
 class OnePageHolder extends Page
 {
