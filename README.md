@@ -1,4 +1,10 @@
 # Silverstripe One Page Module
+[![license - bsd 3 clause](https://img.shields.io/:license-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kMediaGbR/silverstripe-onepage/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kMediaGbR/silverstripe-onepage/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/kMediaGbR/silverstripe-onepage/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/kMediaGbR/silverstripe-onepage/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/kMediaGbR/silverstripe-onepage/badges/build.png?b=master)](https://scrutinizer-ci.com/g/kMediaGbR/silverstripe-onepage/build-status/master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/kMediaGbR/silverstripe-onepage/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+
 This module provides a basic skeleton to build one-page sites easily.
 
 ## Installation
