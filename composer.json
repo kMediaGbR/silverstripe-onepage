@@ -19,8 +19,8 @@
     "issues": "https://github.com/kMediaGbR/silverstripe-onepage/issues"
   },
   "require": {
-    "silverstripe/cms": "^4.0",
-    "silverstripe/framework": "^4.0"
+    "silverstripe/cms": "^4.5",
+    "silverstripe/framework": "^4.5"
   },
   "autoload": {
     "psr-4": {
